@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Home Page é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/Home.html)
+- [Acesse o projeto finalizado, online](https://github.com/GaAlmeidaF/home-page#-home-page-)
 
 ## :memo: Licença
 
